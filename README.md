@@ -1,2 +1,2 @@
 # osu-skins
-the osu! skins that i use
+the osu! skins that i mixed
