@@ -1,7 +1,7 @@
 the osu! skins that i mixed
 
 # [poczekaj ratatuj](https://github.com/jsmoment/osu-skins/raw/main/skins/poczekaj%20ratatuj.osk)
-
+outdated video
 [<img src="https://user-images.githubusercontent.com/75227863/156896494-51261cfa-ae56-44a6-87f3-b91633414290.png">](https://www.youtube.com/watch?v=eZSK_tuOAB8)
 
 # [Azr8Boop](https://github.com/jsmoment/osu-skins/raw/main/skins/Azr8Boop.osk)
